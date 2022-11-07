@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @93MULLINST
+- 👋 Hi, I’m @MullT93
 - 🌱 I’m currently learning python, SQL and tyring C++.
 - 📫 How to reach me ... can't.
 
